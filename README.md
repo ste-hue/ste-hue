@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ste-hue
 - 👀 I’m interested in Python, Data Analysis, Data Engineering, Web Scraping, Data Science.
 - 🌱 I’m currently learning Statistics
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on beginner Python projects
 - 📫 How to reach me ste.dellapietra@gmail.com
 
 <!---

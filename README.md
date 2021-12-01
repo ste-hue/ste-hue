@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ste-hue
-- 👀 I’m interested in Python, Data Analysis, Data Engineering, Web Scraping, Data Science.
+- 👀 I’m interested in Python, Data Analysis, Data Engineering, Data Science.
 - 🌱 I’m currently learning Discrete Math
 - 💞️ I’m looking to collaborate on beginner Python projects
 - 📫 How to reach me ste.dellapietra@gmail.com

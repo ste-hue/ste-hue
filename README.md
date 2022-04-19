@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ste-hue
-- 👀 I’m interested in Data Analysis, Data Engineering, Data Science.
-- 🌱 I’m currently learning Discrete Math.
+- 👀 I’m interested in Data Analysis, Data Engineering, Data Science, Machine Learning.
+- 🌱 I’m currently Studying CS Online.
 - 💞️ I’m looking to collaborate on beginner projects of any kind. 
 - 📫 How to reach me ste.dellapietra@gmail.com.
 

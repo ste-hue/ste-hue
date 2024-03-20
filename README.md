@@ -2,8 +2,7 @@
 
 - 👀 I'm a SE.
 
-
-- 🌱 machine learning, Data sciece, LLM 
+- 🌱 machine learning, Data Eng, LLM 
 
 - 💼 automation, data flow 
 

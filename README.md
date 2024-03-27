@@ -6,7 +6,7 @@
 
 - 💼 automation, data flow 
 
-- 💞️ solving real world problems 
+- 💞️ solving problems
 
 - 📫 ste.dellapietra@gmail.com.
 

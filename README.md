@@ -2,11 +2,9 @@
 
 - 👀 I'm a SE.
 
-- 🌱 machine learning, Data Eng, LLM 
+- 🌱 I'm interested in Langchain and LLM in general.
 
-- 💼 automation, data flow 
-
-- 💞️ solving problems
+- 💼 automation, data flow. 
 
 - 📫 ste.dellapietra@gmail.com.
 

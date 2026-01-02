@@ -1,10 +1,5 @@
-- 👋 Hi, I'm @ste-hue
+Hi, I’m @ste-hue
 
-- 👀 I'm a SE.
-
-- 🌱 I'm interested in ML, Data analysis, NLP.
-
-- 💼 automation, data flow. 
-
-- 📫 ste.dellapietra@gmail.com.
-
+Software engineer focused on systems and data.
+Working with ML, data analysis, and NLP.
+Interested in automation and data flows.
